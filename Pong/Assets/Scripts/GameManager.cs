@@ -1,5 +1,5 @@
 using UnityEngine;
-using TMPro; //Pqra que recoñeza "TMP Text"
+using TMPro;
 
 public class GameManager : MonoBehaviour
 {
